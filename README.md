@@ -17,7 +17,7 @@
 
 ------------------------------------------------------------------
 
-# Website Function Summary
+## Website Function Summary
  
   The following website will let users be able to…
   - Look up a player
