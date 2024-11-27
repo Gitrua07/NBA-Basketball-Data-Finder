@@ -8,7 +8,8 @@ The following are the coding tools I will use.
   
   ## Programming Language
   
-  The programming language will be Python, JSON, HTML.\n
+  The programming language will be Python, JSON, HTML.
+  
   The IDE will be Visual Studios Code.
 
   ## Version Control
