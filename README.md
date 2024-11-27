@@ -2,7 +2,7 @@ Coding Tools
 
   API - 
   
-  The website will use the Balldontlie.
+  The website will use the Balldontlie API.
   
   Programming Language -
   
