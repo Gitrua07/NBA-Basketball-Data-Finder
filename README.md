@@ -4,7 +4,7 @@ The following are the coding tools I will use.
 
   ## API 
   
-  The website will use the [Balldontlie API](https://www.balldontlie.io/).
+  The website will use the [Balldontlie](https://www.balldontlie.io/) API.
   
   ## Programming Language
   
