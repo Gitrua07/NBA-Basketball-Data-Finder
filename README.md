@@ -1,18 +1,17 @@
-# Coding Tools
+# NBA Basketball Data Finder Website
+## Coding Tools
 
-The following are the coding tools I will use.
-
-  ## API 
+  ### API 
   
   The website will use the [Balldontlie](https://www.balldontlie.io/) API.
   
-  ## Programming Language
+  ### Programming Language
   
   The programming language will be Python, JSON, HTML.
   
   The IDE will be Visual Studios Code.
 
-  ## Version Control
+  ### Version Control
   
   Backup will use GIT.
 
@@ -23,6 +22,6 @@ The following are the coding tools I will use.
   The following website will let users be able to…
   - Look up a player
   - Find a roster taking into account:
-  - Team
-  - Year
+    - Team
+    - Year
   
