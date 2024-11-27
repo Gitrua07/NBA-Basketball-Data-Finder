@@ -1,0 +1,23 @@
+Coding Tools
+
+  API - 
+  
+  The website will use the Balldontlie.
+  
+  Programming Language -
+  
+  The programming language will be Python, JSON, HTML.
+   	The IDE will be Visual Studios Code.
+
+  Backup will use GIT.
+
+------------------------------------------------------------------
+
+Website Function Summary
+ 
+  The following website will let users be able to…
+  - Look up a player
+  - Find a roster taking into account:
+  - Team
+  - Year
+  
