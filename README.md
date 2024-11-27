@@ -1,14 +1,18 @@
 # Coding Tools
 
+The following are the coding tools I will use.
+
   ## API 
   
-  The website will use the Balldontlie API.
+  The website will use the ([Balldontlie API](https://www.balldontlie.io/)).
   
   ## Programming Language
   
   The programming language will be Python, JSON, HTML.
    	The IDE will be Visual Studios Code.
 
+  ## Version Control
+  
   Backup will use GIT.
 
 ------------------------------------------------------------------
