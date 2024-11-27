@@ -1,10 +1,10 @@
-Coding Tools
+#Coding Tools
 
-  API - 
+  ##API 
   
   The website will use the Balldontlie API.
   
-  Programming Language -
+  ##Programming Language
   
   The programming language will be Python, JSON, HTML.
    	The IDE will be Visual Studios Code.
@@ -13,7 +13,7 @@ Coding Tools
 
 ------------------------------------------------------------------
 
-Website Function Summary
+#Website Function Summary
  
   The following website will let users be able to…
   - Look up a player
